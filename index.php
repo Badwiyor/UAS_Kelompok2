@@ -28,6 +28,9 @@ include 'koneksi.php';
     <a href="input.php">Input Data &Gt; </a>
     <br>
     <a href="logout.php">Logout</a>
+    <a href="index.php">
+    <button onClick="window.print();">Print</button>
+    </a>
   </center>
   <br/>
   <table border="1">
