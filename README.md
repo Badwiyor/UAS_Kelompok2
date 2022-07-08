@@ -1,15 +1,15 @@
 # UAS_Kelompok2
 # UAS_kelompok2
 
-Repository Jawaban UAS Mata Kuliah Pemrogramman Web 2 kelas 06TPLM007 APLIKASI DATA RELAWAN COVID-19
+Kontribusi:
 
- Disusun oleh kelompok 2 : 
-1. 191011402426 - Bayu Dwi Cahyo - membuat Index
-2. 181011401143- Buzairimi - Membuat login 
-3. 191011401883 - Dede Fahrurrozi - membuat Create data
-4. 191011401146 - Fadillah farhan - membuat update
-5. 191011401178 - Gandy Satriawan - membuat proses update data -logout
-6. 191011402290 - Ifanka Maulika - -membuat proses login -delete
+Bayu Dwi Cahyo membuat struktur database, source code koneksi.php, index.php dan push github
+Buzairimi membantu membuat table pada index.php
+Dede Fahrurrozi membuat source code form login.php,   login_proses.php, dan logout.php
+Fadillah Farhan membuat source code input.php dan input_proses.php
+Gandy Satriawan membuat source code untuk edit.php dan edit_proses.php
+Ifanka Maulika membuat source code hapus.php
+
 
 Berikut link website Aplikasi Data Relawan Covid-19 : 
  
