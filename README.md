@@ -13,8 +13,8 @@ Repository Jawaban UAS Mata Kuliah Pemrogramman Web 2 kelas 06TPLM007 APLIKASI D
 
 Berikut link website Aplikasi Data Relawan Covid-19 : 
  
-Username	: 
-Password	: 
+Username	: admin
+Password	: admin
 
 Data Relawan Covid-19 ini bertujuan untuk memenuhi UAS Kelompok kami 
 
